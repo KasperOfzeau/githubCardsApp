@@ -18,6 +18,9 @@ body {
   font-size: 1.25rem;
   font-weight: bold;
 }
+.loginName {
+  font-size: 0.75rem;
+}
 form {
   border: thin solid #888;
   padding: 2rem;
